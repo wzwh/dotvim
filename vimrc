@@ -146,9 +146,9 @@ let g:SuperTabDefaultCompletionType = "context"
 set completeopt=menuone,longest,preview
 
 " pathogen
-
-call pathogen#infect()
-call pathogen#helptags()
+"
+"call pathogen#infect()
+"call pathogen#helptags()
 
 " NERDTree
 
